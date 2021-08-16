@@ -24,15 +24,15 @@ Asena.addCommand({pattern: 'textimg', fromMe: true, desc: Lang.UP}, (async (mess
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage (Buffer.from (respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*⚜ᴄᴜᴢɪᴇʀ⚜ *
+    await message.sendMessage (Buffer.from (respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: ````Made by```*⦁═ǫᴜᴇᴇɴ 👸 ᴀʟᴇxᴀ═⦁*
 
 
 ▭▬▬▬▬▬👽▬▬▬▬▬▭
-⚜𝗖𝗨𝗭𝗜𝗘𝗥  𝗟𝗢𝗚𝗢  𝗣𝗔𝗖𝗞⚜
+ ⚜𝗔𝗟𝗘𝗫𝗔 𝗟𝗢𝗚𝗢  𝗣𝗔𝗖𝗞⚜
 ▭▬▬▬▬▬▬▬▬▬▬▬▭
 
 📌මෙය පහසුවෙන්ම විවිධ LoGo සාදයි කළයුතු වන්නෙ පහත විධානයකට ඉදිරියෙන් ඔබේ අකුරු දමන්න පමණි.
-🙇උදා: .ninjalogo Cuzier X
+🙇උදා: .ninjalogo Queen alexa
 
 ⚠ මෙහි සමහරක් Command ක්‍රියා නොකිරීම Bot ගෙ දෝෂයක් නොවෙ සෙවාව ලබාගත් API ගැටලු වේ.
 
