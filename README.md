@@ -1,4 +1,4 @@
-## Cuzier X 
+## ⦁══⦁ 𝗤𝘂𝗲𝗲𝗻 👸 𝗔𝗹𝗲𝘅𝗮 ⦁══⦁
 
 
 
@@ -7,9 +7,9 @@
 
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishkumar1601&show_icons=true&theme=nightowl" alt="Manish" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cuzierx1&show_icons=true&theme=nightowl" alt="Manish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar1601&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Manish"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuzierX1&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Manish"/></p></a><br> 
 
 
 
